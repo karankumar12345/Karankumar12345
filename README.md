@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a learning platform that includes courses, articles, interview experiences, a compiler, a real-time code editor, and AI-mock tests.<br>🚧 I’m looking to collaborate on MERN stack projects, real-time applications, AI-integrated tools, and open-source contributions.<br>🤝 I’m looking for help with scaling applications, improving AI-based features, and optimizing database performance.<br>🌱 I’m currently learning advanced AI integration, system design, and real-time communication with WebSockets.<br>💬 Ask me about MERN stack, Next.js, AI-driven applications, real-time collaboration, and interview preparation.<br>⚡ Fun fact: I’ve solved over 500 problems on LeetCode and built multiple full-stack projects!
+🔭 Full Stack Developer at Okra Datacom, actively contributing to the design and development of an AI-powered Clinic Communication Platform. 
+Responsible for building and maintaining real-time PBX systems including SIP-based call management, IVR flows, DID routing, call queues, and agent dashboards. 
+Worked extensively on frontend architecture using React and Tailwind, and contributed to backend services with Node.js, Express, and Neon DB. 
+Handled end-to-end module ownership — from appointment booking, patient and lead management, package and insurance handling, to voice prompt and analytics integration — ensuring seamless communication between patients, agents, and clinics.
 
 
 ## 🌐 Socials:

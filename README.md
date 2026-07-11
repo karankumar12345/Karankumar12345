@@ -1,35 +1,281 @@
-# 💫 About Me:
-🔭 Full Stack Developer at Okra Datacom, actively contributing to the design and development of an AI-powered Clinic Communication Platform. 
-Responsible for building and maintaining real-time PBX systems including SIP-based call management, IVR flows, DID routing, call queues, and agent dashboards. 
-Worked extensively on frontend architecture using React and Tailwind, and contributed to backend services with Node.js, Express, and Neon DB. 
-Handled end-to-end module ownership — from appointment booking, patient and lead management, package and insurance handling, to voice prompt and analytics integration — ensuring seamless communication between patients, agents, and clinics.
+# 👋 Hi, I'm Karan Kumar
 
+🚀 Full Stack Developer passionate about building scalable web applications, AI-powered products, and real-time communication systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-kumar-823190256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karankumar2004122@gmail.com) 
-<a href="https://instagram.com/karankumar26082005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karankumar26082005" height="30" width="40" /></a>
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karankumar12345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karankumar12345&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karankumar12345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💼 Currently working as a **Full Stack Developer at Okra Datacom (OD3X / CX Assist Ltd)**, where I develop enterprise healthcare communication platforms used by clinics and medical teams.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karankumar12345&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 💫 About Me
 
+- 💻 Full Stack Developer with **1+ years of industry experience**
+- ⚡ Building AI-powered Healthcare Communication Platforms
+- 📞 Working on **WebRTC, SIP, Asterisk PBX, IVR, Call Routing & Real-Time Systems**
+- 🌍 Remote developer collaborating with UK-based teams
+- 🚀 Love solving complex backend architecture and frontend performance challenges
+- 📚 Solved **500+ DSA problems** on LeetCode
+- 🎯 Currently exploring **System Design, Distributed Systems, AI Integrations, and Scalable SaaS Architecture**
 
-## 📈 Contribution Activity
+---
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karankumar12345&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&hide_border=true&area=true" alt="activity graph" />
-</p>
+# 🚀 Professional Experience
 
-<!-- Contribution snake (generated by .github/workflows/snake.yml) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karankumar12345/karankumar12345/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
+## Full Stack Developer — Okra Datacom (OD3X / CX Assist Ltd)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### AI-Powered Healthcare Communication Platform
+
+Working on a production healthcare platform that manages **30,000+ monthly calls** across multiple clinics.
+
+### Responsibilities
+
+- Developed enterprise healthcare dashboard using **React, Next.js & TailwindCSS**
+- Built scalable backend services using **Node.js, Express.js & PostgreSQL**
+- Designed secure Role-Based Access Control (RBAC)
+- Developed Appointment, Insurance, Patient Management and Billing modules
+- Implemented Real-Time Communication using WebSockets
+- Built browser Softphone using **WebRTC + JsSIP + Asterisk PBX**
+- Created SIP Call Handling, DID Routing, IVR Flows and Call Queues
+- Integrated AI Voice Agents (Vapi AI)
+- Worked on Analytics Dashboard and Live Agent Monitoring
+- Optimized frontend rendering for better performance
+- Worked closely with backend, DevOps and QA teams
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 CX Assist (Healthcare Communication Platform)
+
+Enterprise healthcare platform supporting clinics with
+
+- Patient Management
+- Appointment Scheduling
+- Call Center Dashboard
+- Softphone
+- IVR
+- AI Voice Agent
+- Insurance
+- Billing
+- Analytics
+- Multi Tenant Architecture
+
+**Tech**
+
+React • Next.js • Node.js • Express • PostgreSQL • Redis • WebRTC • Socket.IO • Asterisk PBX • JsSIP • TailwindCSS
+
+---
+
+## 📚 Learning Management System
+
+AI-powered Learning Platform
+
+### Features
+
+- Course Management
+- AI Mock Interview
+- Community Discussion
+- Nested Comments
+- Cloudinary
+- VdoCipher Secure Streaming
+- Two Factor Authentication
+
+**Tech**
+
+Next.js • TypeScript • MongoDB • Node.js • Express • Cloudinary • VdoCipher
+
+---
+
+## ⚡ NextGen System
+
+Enterprise Authentication & Collaboration Platform
+
+### Features
+
+- JWT Authentication
+- Refresh Token
+- Redis
+- Session Management
+- Role Based Access
+- Audit Logs
+- Live Code Editor
+- Socket.IO Collaboration
+
+**Tech**
+
+Node.js • Express • Sequelize • PostgreSQL • Redis • Socket.IO
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • Java • C • C++
+
+### Frontend
+
+React.js
+
+Next.js
+
+Redux Toolkit
+
+RTK Query
+
+TailwindCSS
+
+React Query
+
+React Hook Form
+
+Chakra UI
+
+Vite
+
+React Native
+
+Vue.js
+
+### Backend
+
+Node.js
+
+Express.js
+
+REST APIs
+
+JWT Authentication
+
+Prisma
+
+Sequelize
+
+Mongoose
+
+### Databases
+
+MongoDB
+
+PostgreSQL
+
+MySQL
+
+Redis
+
+Neon DB
+
+### Real-Time
+
+WebRTC
+
+Socket.IO
+
+WebSockets
+
+Redis Pub/Sub
+
+### Telephony
+
+Asterisk PBX
+
+JsSIP
+
+SIP
+
+IVR
+
+DID Routing
+
+Call Queue
+
+Call Recording
+
+VoIP
+
+### Cloud & Tools
+
+Git
+
+GitHub
+
+Postman
+
+Cloudinary
+
+Firebase
+
+Appwrite
+
+Vercel
+
+---
+
+# 🏆 Achievements
+
+🏅 500+ Problems Solved on LeetCode
+
+🏅 Built production healthcare platform handling 30K+ monthly calls
+
+🏅 Developed enterprise browser softphone
+
+🏅 Built scalable multi-tenant SaaS architecture
+
+🏅 Developed 350+ healthcare modules
+
+🏅 Experience with AI integrations and Real-Time Communication
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email
+
+**karankumar2004122@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/karan-kumar-823190256
+
+💻 GitHub
+
+https://github.com/karankumar12345
+
+🌍 Portfolio
+
+https://karan-portfolio-kumar.vercel.app
+
+📈 LeetCode
+
+https://leetcode.com/u/Karan12/
+
+📷 Instagram
+
+https://instagram.com/karankumar26082005
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=karankumar12345&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=karankumar12345&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karankumar12345&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karankumar12345&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/karankumar12345/karankumar12345/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+![](https://komarev.com/ghpvc/?username=karankumar12345&color=blue)
+
+⭐ From **Karan Kumar**

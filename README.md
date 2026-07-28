@@ -35,7 +35,7 @@ I am a highly driven **Full Stack Developer** focused on building production-gra
 * 💼 **Current Focus:** Full Stack Engineering at **Okra Datacom (OD3X / CX Assist Ltd)**, engineering mission-critical telehealth systems for UK healthcare markets.
 * 📞 **Core Domain Expertise:** Advanced pipeline development with **WebRTC, SIP engines, Asterisk PBX configs, IVR loops**, and live telemetry streaming.
 * 🌍 **Collaboration Layer:** Deeply accustomed to modern asynchronous remote workflows and fast-paced feature iterations.
-* 🧠 **Problem Solver:** Solved **500+ deep algorithmic problems** across arrays, dynamic programming, and graphs on LeetCode.
+* 🧠 **Problem Solver:** Solved **500+ deep algorithmic problems** across arrays, dynamic programming on LeetCode.
 * 🎯 **Future Horizons:** Diving deeper into distributed backends, clean system design systems, and robust multi-tenant architectures.
 
 ---
